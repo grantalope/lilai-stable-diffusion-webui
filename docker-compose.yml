@@ -1,4 +1,4 @@
-version: '3.3'
+version: '3.9'
 
 x-base_service: &base_service
     ports:
